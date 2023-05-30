@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.top {
+    padding-top: 40px;
+    padding-bottom: 96;
+}
+
+.top__header {
+    padding-top: 11px;
+    padding-bottom: 12px;
+}
+
+.top__content {
+    margin-top: 84px;
+    margin-bottom: 162px;
+}
+
+.title {
+    margin-bottom: 17px;
+}
+
+.top__info {
+    margin-bottom: 17px;
+}
+
+.top__button_area {
+    margin-top: 37px;
+}
+
+.top__brands {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
